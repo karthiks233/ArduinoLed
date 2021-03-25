@@ -5,6 +5,7 @@ Processor - Arduino
 
 Requirements:
 
+
 Led strips(WS2811)
 Processor (Arduino)
 Resistors(47k,1M)
