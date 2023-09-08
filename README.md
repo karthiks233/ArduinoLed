@@ -14,4 +14,4 @@ Resistors(47k,1M)
 Capacitors(1uf,4.7uf)
 Op-Amps(324)
 
-
+Youtube Link : https://youtu.be/AwBKTMg2OFw?si=I5g4InKw5eJjOPT0
