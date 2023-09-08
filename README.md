@@ -1,5 +1,7 @@
 # ArduinoLed
 
+Implemented LED lights which reacts to the music being played through ARDUINO.
+
 Led Type - WS2811
 Processor - Arduino
 
